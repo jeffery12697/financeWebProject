@@ -90,7 +90,7 @@ cd financeProject
 
 https://dbdiagram.io/d/666ae372a179551be6cd2051
 
-![Untitled](https://hackmd.io/_uploads/B1znNDOS0.png)
+![Untitled](./image/DatabaseDiagram.png)
 
 ### Stored Procedure
 
@@ -101,13 +101,13 @@ https://dbdiagram.io/d/666ae372a179551be6cd2051
 於程式開啟時會自動 load 10 筆測試資料於 table 中，指令存放於 `resource.data.sql`
 
 * product table
-![Screenshot 2024-06-13 at 8.41.32 PM](https://hackmd.io/_uploads/SytStvOSR.png)
+![Screenshot 2024-06-13 at 8.41.32 PM](./image/ProductTable.png)
 
 * myuser table
 
-![Screenshot 2024-06-13 at 8.41.53 PM](https://hackmd.io/_uploads/r1M9KvOBC.png)
+![Screenshot 2024-06-13 at 8.41.53 PM](./image/MyUserTable.png)
 
 
 
 * likeList
-![Screenshot 2024-06-13 at 8.40.52 PM](https://hackmd.io/_uploads/rJYYtPuB0.png)
+![Screenshot 2024-06-13 at 8.40.52 PM](./image/LikeList.png)
