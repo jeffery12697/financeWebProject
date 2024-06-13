@@ -21,13 +21,13 @@ SELECT insert_myuser('U009', 'Ivy', 'ivy@example.com', '111122223341');
 SELECT insert_myuser('U010', 'Jack', 'jack@example.com', '111122223342');
 
 
-SELECT insert_likelist('U001', 'P001', 2, '111122223333', 10.0, 200.0);
-SELECT insert_likelist('U002', 'P002', 3, '111122223334', 30.0, 600.0);
-SELECT insert_likelist('U003', 'P003', 1, '111122223335', 10.5, 150.0);
-SELECT insert_likelist('U004', 'P004', 5, '111122223336', 75.0, 1500.0);
-SELECT insert_likelist('U005', 'P005', 2, '111122223337', 60.0, 500.0);
-SELECT insert_likelist('U006', 'P006', 4, '111122223338', 112.0, 1400.0);
-SELECT insert_likelist('U007', 'P007', 1, '111122223339', 80.0, 400.0);
-SELECT insert_likelist('U008', 'P008', 3, '111122223340', 337.5, 1350.0);
-SELECT insert_likelist('U009', 'P009', 2, '111122223341', 300.0, 1000.0);
-SELECT insert_likelist('U010', 'P010', 4, '111122223342', 140.0, 2200.0);
+SELECT insert_likelist('U001', 'P001', '2dfdf', 11123333, 10.0, 200.0);
+SELECT insert_likelist('U002', 'P002', '3322', 1113334, 30.0, 600.0);
+SELECT insert_likelist('U003', 'P003', 'dfdf1', 11123335, 10.5, 150.0);
+SELECT insert_likelist('U004', 'P004', '5fdfd', 11113336, 75.0, 1500.0);
+SELECT insert_likelist('U005', 'P005', '2ggrg', 1113337, 60.0, 500.0);
+SELECT insert_likelist('U006', 'P006', '4dfdf', 1111338, 112.0, 1400.0);
+SELECT insert_likelist('U007', 'P007', '1wewe', 111139, 80.0, 400.0);
+SELECT insert_likelist('U008', 'P008', '3grg', 111122, 337.5, 1350.0);
+SELECT insert_likelist('U009', 'P009', '2fgrfg3', 12222, 300.0, 1000.0);
+SELECT insert_likelist('U010', 'P010', '4erfer', 11222, 140.0, 2200.0);
