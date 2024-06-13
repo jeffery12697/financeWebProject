@@ -1,5 +1,10 @@
 # FinanceWebProject
 
+本專案完成後端與資料庫的部分
+
+後端：SpringBoot
+資料庫： Postgresql
+
 ## 環境建置
 
 * Java 22
@@ -110,4 +115,4 @@ https://dbdiagram.io/d/666ae372a179551be6cd2051
 
 
 * likeList
-![Screenshot 2024-06-13 at 8.40.52 PM](./image/LikeList.png)
+![Screenshot 2024-06-13 at 8.40.52 PM](./image/LikeListTable.png)
